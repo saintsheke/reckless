@@ -1,0 +1,175 @@
+USER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+_windowserver     186   0.6  1.1  3967900  88852   ??  Ss   Wed06PM  29:59.51 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/CoreGraphics.framework/Resources/WindowServer -daemon
+johnmwangi       4186   0.6  4.6  4228184 389784   ??  Ss    7:15PM   0:14.35 com.apple.WebKit.WebContent
+johnmwangi       4190   0.4  0.1   715076  10208   ??  S     7:15PM   0:02.09 /Library/Application Support/Google/GoogleTalkPlugin.app/Contents/MacOS/GoogleTalkPlugin
+johnmwangi       3907   0.4  0.3  2626744  29268   ??  S     6:07PM   0:13.91 /Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+johnmwangi       4119   0.3  0.1  2534072  10876   ??  S     6:54PM   0:04.29 /Library/Little Snitch/Little Snitch Network Monitor.app/Contents/MacOS/Little Snitch Network Monitor -psn_0_2376260
+johnmwangi       3581   0.1  0.4  3601572  34208   ??  S     4:12PM   0:18.78 /System/Library/CoreServices/Dock.app/Contents/Resources/DashboardClient.app/Contents/MacOS/DashboardClient
+johnmwangi       4189   0.0  0.2  3626040  15156   ??  Ss    7:15PM   0:00.26 com.apple.WebKit.Plugin.64
+root             4185   0.0  0.0  2461360   2524   ??  Ss    7:14PM   0:00.02 /usr/sbin/ocspd
+johnmwangi       4184   0.0  0.1  2470028   4672   ??  S     7:14PM   0:00.16 /System/Library/Frameworks/CFNetwork.framework/Versions/A/Support/cookied
+johnmwangi       4160   0.0  1.2  3764304  98768   ??  Ss    7:05PM   0:02.51 com.apple.WebKit.WebContent
+johnmwangi       4148   0.0  1.4  3806464 121260   ??  Ss    7:04PM   0:01.76 com.apple.WebKit.WebContent
+johnmwangi       4118   0.0  0.2  2569228  20120   ??  S     6:54PM   0:07.03 /Library/Little Snitch/Little Snitch Agent.app/Contents/MacOS/Little Snitch Agent
+root             4114   0.0  0.2  2503180  17964   ??  Ss    6:54PM   0:01.09 /Library/Little Snitch/Little Snitch Daemon.bundle/Contents/MacOS/Little Snitch Daemon
+johnmwangi       4102   0.0  0.1  2492528   8620   ??  Ss    6:51PM   0:18.71 com.apple.iCloudHelper
+johnmwangi       4095   0.0  0.2  3619504  17684   ??  Ss    6:50PM   0:00.17 com.apple.WebKit.WebContent
+johnmwangi       4077   0.0  0.0  2461016   1276 s000  S     6:45PM   0:00.10 -bash
+root             4076   0.0  0.0  2468788   2152 s000  Ss    6:45PM   0:00.04 login -pf johnmwangi
+johnmwangi       3956   0.0  0.2  2532760  19984   ??  S     6:15PM   0:00.92 /System/Library/Frameworks/Quartz.framework/Frameworks/QuickLookUI.framework/Resources/QuickLookUIHelper.app/Contents/MacOS/QuickLookUIHelper
+johnmwangi       3862   0.0  1.6  3828868 130292   ??  Ss    5:50PM   0:06.63 com.apple.WebKit.WebContent
+_netbios         3822   0.0  0.0  2470888   3108   ??  SNs   5:34PM   0:01.82 /usr/sbin/netbiosd
+johnmwangi       3820   0.0  0.0  2468872   2152   ??  S     5:34PM   0:00.01 /System/Library/CoreServices/AirPort Base Station Agent.app/Contents/MacOS/AirPort Base Station Agent --launchd
+_securityagent   3818   0.0  0.0  2491732   1440   ??  S     5:33PM   0:00.01 /usr/sbin/distnoted agent
+_securityagent   3816   0.0  0.0  2471392    948   ??  Ss    5:33PM   0:00.01 /sbin/launchd
+_securityagent   3815   0.0  0.1  2479192   4868   ??  Ss    5:33PM   0:00.02 com.apple.IconServicesAgent
+_securityagent   3814   0.0  0.0  2469984   2160   ??  Ss    5:33PM   0:00.03 /usr/libexec/xpcd
+root             3803   0.0  0.4  2490180  31636   ??  Ss    5:32PM   0:02.61 /usr/sbin/systemstats --xpc
+johnmwangi       3799   0.0  0.2  3620528  17976   ??  Ss    5:32PM   0:00.41 com.apple.WebKit.WebContent
+johnmwangi       3752   0.0  1.7  3884556 145128   ??  S     5:08PM   0:25.74 /Applications/Evernote.app/Contents/MacOS/Evernote
+johnmwangi       3695   0.0  3.1  3969696 259972   ??  Ss    4:48PM   0:19.68 com.apple.WebKit.WebContent
+johnmwangi       3454   0.0  0.1  2468904   4684   ??  Ss    3:38PM   0:00.02 com.apple.menuextra.airport.keychainproxy
+root             3437   0.0  0.1  2469628   4816   ??  Ss    3:33PM   0:00.02 com.apple.systemadministration.writeconfig
+johnmwangi       3207   0.0  0.1   669140   4560   ??  Ss    2:14PM   0:00.11 com.apple.qtkitserver
+johnmwangi       3204   0.0  3.0  4002896 254120   ??  Ss    2:14PM   0:54.16 com.apple.WebKit.WebContent
+johnmwangi       3202   0.0  1.0  3816968  82188   ??  Ss    2:12PM   0:13.24 com.apple.WebKit.WebContent
+johnmwangi       3185   0.0  1.5  3803088 122792   ??  Ss    2:11PM   0:05.16 com.apple.WebKit.WebContent
+johnmwangi       2896   0.0  0.0  2469432   3796   ??  S    12:53PM   0:00.01 /usr/libexec/USBAgent
+johnmwangi       2825   0.0  0.1  2497404   9352   ??  S    12:30PM   0:00.35 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/bookstoreagent
+johnmwangi       2819   0.0  0.1  2493092   6380   ??  Ss   12:30PM   0:00.04 com.apple.BKAgentService
+johnmwangi       2809   0.0  0.0  2469272   1828   ??  S    12:29PM   0:00.02 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/PrintCore.framework/Versions/A/printtool agent
+_coreaudiod      2499   0.0  0.1  2470512   4972   ??  Ss    8:38AM   0:00.08 com.apple.audio.ComponentHelper
+johnmwangi       2446   0.0  0.9  3642212  73192   ??  Ss    8:26AM   4:50.16 com.apple.WebKit.Networking
+johnmwangi       2443   0.0  2.2  4002916 185396   ??  S     8:26AM   4:34.48 /Applications/Safari.app/Contents/MacOS/Safari
+root             1617   0.0  0.0  2469224    244   ??  SNs   1:39AM   0:00.01 /usr/libexec/periodic-wrapper daily
+johnmwangi       1267   0.0  0.1  2532180  10936   ??  S    11:47PM   0:02.32 /System/Library/PrivateFrameworks/CloudServices.framework/Resources/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert
+johnmwangi       1253   0.0  0.1  2481560   4796   ??  S    11:41PM   0:00.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+johnmwangi       1175   0.0  0.1  2531240   6852   ??  S    11:15PM   0:02.44 /System/Library/PrivateFrameworks/CommerceKit.framework/Resources/LaterAgent.app/Contents/MacOS/LaterAgent
+root             1125   0.0  0.0  2469252    584   ??  S    11:07PM   0:00.01 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdflagwriter
+root             1123   0.0  0.0  2471392    744   ??  Ss   11:07PM   0:00.04 /sbin/launchd
+root             1121   0.0  0.6  2527208  54276   ??  Ss   11:07PM   0:54.43 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+johnmwangi       1080   0.0  0.2  2522980  13772   ??  Ss   10:41PM   0:03.53 com.apple.MailServiceAgent
+johnmwangi        640   0.0  0.3  2502472  22288   ??  Ss   Wed06PM   0:02.13 com.apple.DataDetectorsDynamicData
+johnmwangi        638   0.0  0.2  2493440  15920   ??  S    Wed06PM   0:00.34 /System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd
+johnmwangi        541   0.0  0.1  2494384   7040   ??  Ss   Wed06PM   0:00.67 com.apple.geod
+johnmwangi        527   0.0  0.3  2564676  21648   ??  S    Wed06PM   0:04.64 /Applications/Evernote.app/Contents/Library/LoginItems/EvernoteHelper.app/Contents/MacOS/EvernoteHelper
+johnmwangi        494   0.0  0.2  2497444  14368   ??  S    Wed06PM   0:00.37 /System/Library/CoreServices/ScopedBookmarkAgent
+root              490   0.0  0.0  2469784   3100   ??  Ss   Wed06PM   0:00.05 /usr/libexec/syspolicyd
+johnmwangi        479   0.0  0.1  2492612  12060   ??  Ss   Wed06PM   0:00.45 com.apple.lakitu
+johnmwangi        476   0.0  0.1  2492296   6572   ??  S    Wed06PM   0:00.25 /System/Library/PrivateFrameworks/CloudServices.framework/Resources/com.apple.sbd
+johnmwangi        449   0.0  0.0  2481516   2384   ??  S    Wed06PM   0:00.02 /usr/libexec/spindump_agent
+root              436   0.0  0.0  2470308   2420   ??  Ss   Wed06PM   0:05.83 /usr/libexec/systemstatsd
+_coreaudiod       428   0.0  0.1  2469452   4436   ??  Ss   Wed06PM   0:00.02 com.apple.audio.SandboxHelper
+johnmwangi        412   0.0  0.1  2522048   7060   ??  S    Wed06PM   0:04.42 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+root              410   0.0  0.0  2470296   1972   ??  Ss   Wed06PM   0:00.14 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+root              409   0.0  0.1  2509224  11008   ??  Ss   Wed06PM   0:01.03 /usr/libexec/sandboxd -n PluginProcess -n 
+johnmwangi        402   0.0  0.1  2531196   7216   ??  S    Wed06PM   0:03.36 /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/universalAccessAuthWarn.app/Contents/MacOS/universalAccessAuthWarn launchd -s
+johnmwangi        378   0.0  0.1  2493060   6016   ??  Ss   Wed06PM   0:00.31 com.apple.InputMethodKit.UserDictionary
+johnmwangi        374   0.0  0.3  2529256  27616   ??  S    Wed06PM   0:04.87 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell -psn_0_114716
+johnmwangi        370   0.0  0.1  2480028  11076   ??  S    Wed06PM   0:01.22 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdflagwriter
+_spotlight        352   0.0  0.0  2491732   1544   ??  S    Wed06PM   0:00.08 /usr/sbin/distnoted agent
+_spotlight        349   0.0  0.0  2471392    976   ??  Ss   Wed06PM   0:00.11 /sbin/launchd
+johnmwangi        348   0.0  0.2  2493688  14416   ??  Ss   Wed06PM   0:00.56 com.apple.NotesMigratorService
+johnmwangi        339   0.0  0.2  3583744  20388   ??  S    Wed06PM   0:17.88 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeagent
+root              333   0.0  0.1  2500812   9136   ??  Ss   Wed06PM   0:00.50 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/suhelperd
+_softwareupdate   331   0.0  0.0  2469984   2032   ??  Ss   Wed06PM   0:00.02 /usr/libexec/xpcd
+_softwareupdate   330   0.0  0.5  3677672  43760   ??  Ss   Wed06PM   0:32.52 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+_appleevents      327   0.0  0.0  2469984   1968   ??  Ss   Wed06PM   0:00.01 /usr/libexec/xpcd
+johnmwangi        325   0.0  0.2  2528544  16588   ??  Ss   Wed06PM   0:04.88 com.apple.dock.extra
+johnmwangi        324   0.0  0.0  2468844   2120   ??  S    Wed06PM   0:00.05 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
+johnmwangi        322   0.0  0.3  2542740  24988   ??  Ss   Wed06PM   0:37.44 com.apple.internetaccounts
+johnmwangi        320   0.0  0.2  2524340  16804   ??  Ss   Wed06PM   0:04.39 com.apple.ShareKitHelper
+johnmwangi        318   0.0  2.0  2643364 171584   ??  Ss   Wed06PM   0:03.95 com.apple.IconServicesAgent
+johnmwangi        317   0.0  0.0  2481464   3136   ??  S    Wed06PM   0:00.09 /System/Library/CoreServices/pbs
+johnmwangi        316   0.0  0.1  2493680   6176   ??  Ss   Wed06PM   0:00.06 com.apple.imdpersistence.IMDPersistenceAgent
+johnmwangi        315   0.0  0.1  2494820   7436   ??  S    Wed06PM   0:07.85 /usr/libexec/secd
+johnmwangi        314   0.0  0.0   657152   3992   ??  S    Wed06PM   0:01.34 /Users/johnmwangi/Library/Application Support/Google/Android File Transfer/Android File Transfer Agent.app/Contents/MacOS/Android File Transfer Agent
+johnmwangi        312   0.0  0.6   795684  52488   ??  S    Wed06PM   0:21.80 /Applications/Dropbox.app/Contents/MacOS/Dropbox
+johnmwangi        311   0.0  0.1  2495232   5860   ??  S    Wed06PM   0:02.45 /Applications/iTunes.app/Contents/MacOS/iTunesHelper.app/Contents/MacOS/iTunesHelper
+johnmwangi        303   0.0  0.0  2470128   2040   ??  S    Wed06PM   0:00.02 /System/Library/CoreServices/AppleIDAuthAgent
+johnmwangi        301   0.0  0.1  2491960   4716   ??  S    Wed06PM   0:00.13 /System/Library/PrivateFrameworks/HelpData.framework/Versions/A/Resources/helpd
+johnmwangi        300   0.0  0.2  2497496  14976   ??  S    Wed06PM   0:02.26 /System/Library/PrivateFrameworks/IDSCore.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+johnmwangi        299   0.0  0.1  2493416   4512   ??  S    Wed06PM   0:00.63 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+johnmwangi        297   0.0  0.0  2514888   3848   ??  S    Wed06PM   0:00.34 /usr/libexec/lsboxd
+johnmwangi        293   0.0  0.4  2530416  33352   ??  S    Wed06PM   0:07.86 /System/Library/PrivateFrameworks/MessagesKit.framework/Resources/soagent.app/Contents/MacOS/soagent
+johnmwangi        292   0.0  0.1  2491944   4492   ??  S    Wed06PM   0:00.38 /usr/libexec/WiFiKeychainProxy
+johnmwangi        290   0.0  0.0   630624   1488   ??  S    Wed06PM   0:00.21 /Library/PreferencePanes/NTFSforMacOSX.prefPane/Contents/MacOS/notificator
+johnmwangi        289   0.0  0.3  2544188  22400   ??  S    Wed06PM   0:17.45 /Applications/Wunderlist.app/Contents/Library/LoginItems/WunderlistHelper.app/Contents/MacOS/WunderlistHelper
+root              288   0.0  0.0  2502188   3184   ??  Ss   Wed06PM   0:02.77 /usr/sbin/filecoordinationd
+johnmwangi        286   0.0  0.2  2554648  20212   ??  S    Wed06PM   0:07.20 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+johnmwangi        283   0.0  0.1  2525132   8452   ??  S    Wed06PM   0:18.08 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+johnmwangi        281   0.0  0.1  2497784   7648   ??  S    Wed06PM   0:00.38 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+johnmwangi        280   0.0  0.1  2502532  10796   ??  S    Wed06PM   0:00.26 /usr/libexec/librariand
+johnmwangi        279   0.0  0.1  2494428   8020   ??  S    Wed06PM   0:04.65 /usr/sbin/usernoted
+johnmwangi        278   0.0  0.1  2505924   7608   ??  S    Wed06PM   0:02.35 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd
+johnmwangi        276   0.0  0.0  2460424    960   ??  S    Wed06PM   0:00.01 /usr/sbin/pboard
+johnmwangi        275   0.0  0.2  2498264  15288   ??  S    Wed06PM   0:01.88 /usr/libexec/sharingd
+johnmwangi        274   0.0  0.1  2493976   8864   ??  Ss   Wed06PM   0:04.49 /usr/libexec/xpcd
+johnmwangi        271   0.0  0.2  2545092  19568   ??  S    Wed06PM   0:05.96 /System/Library/Frameworks/GameKit.framework/Versions/A/Resources/gamed
+johnmwangi        269   0.0  0.1  2493040   5996   ??  S    Wed06PM   0:00.06 /System/Library/CoreServices/SocialPushAgent.app/Contents/MacOS/SocialPushAgent
+johnmwangi        267   0.0  0.2  2505344  17192   ??  S    Wed06PM   0:09.02 /System/Library/PrivateFrameworks/Ubiquity.framework/Versions/A/Support/ubd
+johnmwangi        265   0.0  0.3  2519432  29124   ??  S    Wed06PM   2:55.45 /System/Library/PrivateFrameworks/CalendarAgent.framework/Executables/CalendarAgent
+_coreaudiod       260   0.0  0.1  2492472   5480   ??  Ss   Wed06PM   0:00.05 com.apple.audio.DriverHelper
+_coreaudiod       259   0.0  0.0  2469984   2140   ??  Ss   Wed06PM   0:00.02 /usr/libexec/xpcd
+_coreaudiod       258   0.0  0.1  2478900  10376   ??  Ss   Wed06PM   8:00.97 /usr/sbin/coreaudiod
+johnmwangi        257   0.0  0.7  2683144  57064   ??  S    Wed06PM   0:47.07 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+johnmwangi        256   0.0  0.4  2628352  36948   ??  S    Wed06PM   0:26.96 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+johnmwangi        255   0.0  0.6  2599344  50564   ??  S    Wed06PM   1:08.71 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+johnmwangi        250   0.0  0.1  2475576   7280   ??  U    Wed06PM   0:09.78 /usr/sbin/cfprefsd agent
+johnmwangi        247   0.0  0.1  2497924   8552   ??  S    Wed06PM   0:25.56 /usr/sbin/distnoted agent
+johnmwangi        246   0.0  0.2  2516368  15888   ??  S    Wed06PM   0:08.83 /usr/libexec/UserEventAgent (Aqua)
+johnmwangi        243   0.0  0.0  2471576   1852   ??  Ss   Wed06PM   0:06.60 /sbin/launchd
+root              242   0.0  0.0  2492488   1992   ??  Ss   Wed06PM   0:02.61 /usr/libexec/securityd_service
+root              239   0.0  0.0  2479928   3160   ??  Ss   Wed06PM   0:00.05 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd system
+root              220   0.0  0.1  2469416   4948   ??  Ss   Wed06PM   0:00.47 com.apple.CodeSigningHelper
+root              214   0.0  0.0  2536432   2604   ??  Ss   Wed06PM   0:00.41 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+root              212   0.0  0.0  2469232    724   ??  Ss   Wed06PM   0:05.25 /usr/libexec/pacemaker -b -e 0.0001 -a 10
+root              210   0.0  0.0  2469100   1140   ??  Ss   Wed06PM   0:00.18 /usr/sbin/ntpd -c /private/etc/ntp-restrict.conf -n -g -p /var/run/ntpd.pid -f /var/db/ntp.drift
+root              208   0.0  0.0  2491816   2408   ??  Ss   Wed06PM   0:01.97 /usr/libexec/usbd
+root              206   0.0  0.0  2469232   1004   ??  Ss   Wed06PM   0:00.29 /usr/libexec/networkd_privileged
+_networkd         205   0.0  0.0  2469324   3564   ??  Ss   Wed06PM   0:08.33 /usr/libexec/networkd
+root              191   0.0  2.4  4037592 205076   ??  Ss   Wed06PM   1:40.56 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+root               80   0.0  0.0  2469548   3336   ??  Ss   Wed06PM   0:01.50 sysmond
+root               74   0.0  0.0  2470512   2496   ??  Ss   Wed06PM   0:07.51 /usr/sbin/cfprefsd daemon
+root               73   0.0  0.1  2493760   7352   ??  Ss   Wed06PM   0:00.41 com.apple.authd
+root               69   0.0  0.1  2519952  12376   ??  Ss   Wed06PM   0:04.78 /System/Library/CoreServices/coreservicesd
+root               68   0.0  0.0  2469984   2276   ??  Ss   Wed06PM   0:00.06 /usr/libexec/xpcd
+root               64   0.0  0.1  2495396   7196   ??  Ss   Wed06PM   0:06.81 /usr/libexec/airportd
+root               63   0.0  0.1  2492688   6096   ??  Ss   Wed06PM   0:00.34 /usr/libexec/aosnotifyd
+root               62   0.0  0.1  2494340   8696   ??  Ss   Wed06PM   0:03.37 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root               61   0.0  0.0  2469340   1976   ??  Ss   Wed06PM   0:00.12 autofsd
+_appleevents       56   0.0  0.0  2492472   3412   ??  Ss   Wed06PM   0:00.59 /System/Library/CoreServices/appleeventsd --server
+root               55   0.0  0.1  2505084   8664   ??  Ss   Wed06PM   0:13.15 /System/Library/CoreServices/launchservicesd
+root               51   0.0  0.0  2433820    804   ??  Ss   Wed06PM   0:00.08 /sbin/dynamic_pager -F /private/var/vm/swapfile
+root               49   0.0  0.1  2481500   9580   ??  Ss   Wed06PM   0:18.62 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/Support/fseventsd
+root               48   0.0  0.0  2469772   3844   ??  Ss   Wed06PM   4:42.69 /usr/libexec/hidd
+root               46   0.0  0.0  2460612    968   ??  Ss   Wed06PM   0:00.01 /usr/sbin/KernelEventAgent
+_locationd         45   0.0  0.1  2509036   9632   ??  Ss   Wed06PM   0:07.38 /usr/libexec/locationd
+root               44   0.0  0.0  2468732   2084   ??  Ss   Wed06PM   0:00.03 /System/Library/CoreServices/logind
+johnmwangi         43   0.0  0.3  2579832  21144   ??  Ss   Wed06PM   0:11.77 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+_mdnsresponder     40   0.0  0.1  2494396   5620   ??  Ss   Wed06PM   0:22.53 /usr/sbin/mDNSResponder
+root               39   0.0  0.5  2586628  40584   ??  Ss   Wed06PM   2:44.89 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+root               34   0.0  0.0  2470920   2804   ??  Ss   Wed06PM   0:00.16 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root               32   0.0  0.0  2468736   1692   ??  Ss   Wed06PM   0:00.01 /System/Library/CoreServices/SleepServicesD
+root               29   0.0  0.0  2469256   1324   ??  Ss   Wed06PM   0:00.13 /usr/libexec/stackshot -t
+_usbmuxd           26   0.0  0.0  2480856   3372   ??  Ss   Wed06PM   0:01.26 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+root               25   0.0  0.1  2470644   6356   ??  SNs  Wed06PM   0:00.50 /usr/libexec/warmd
+root               24   0.0  0.1  2469228   4704   ??  Ss   Wed06PM   0:00.02 /usr/libexec/wdhelper
+root               21   0.0  0.1  2508064  10832   ??  Us   Wed06PM   0:15.21 /usr/libexec/opendirectoryd
+root               20   0.0  0.0  2480636   1380   ??  Ss   Wed06PM   0:10.30 /usr/sbin/syslogd
+root               19   0.0  0.0  2491732   2416   ??  Ss   Wed06PM   0:00.61 /usr/sbin/distnoted daemon
+root               18   0.0  0.1  2494680   5500   ??  Ss   Wed06PM   0:22.03 /usr/libexec/configd
+root               17   0.0  0.0  2469344   1784   ??  Ss   Wed06PM   0:01.03 /usr/libexec/diskarbitrationd
+root               16   0.0  0.0  2491864   2132   ??  Ss   Wed06PM   0:04.12 /System/Library/CoreServices/powerd.bundle/powerd
+root               15   0.0  0.0  2480068   1472   ??  Ss   Wed06PM   0:07.30 /usr/sbin/notifyd
+root               14   0.0  0.1  2493932   6656   ??  Ss   Wed06PM   1:26.32 /usr/sbin/securityd -i
+root               13   0.0  0.2  2505824  14464   ??  Ss   Wed06PM   0:07.13 /usr/libexec/taskgated -s
+root               12   0.0  0.1  2495128   7696   ??  Ss   Wed06PM   0:01.83 /usr/libexec/kextd
+root               11   0.0  0.1  2494532  10736   ??  Ss   Wed06PM   0:06.48 /usr/libexec/UserEventAgent (System)
+root             4213   0.0  0.0  2432800    716 s000  R+    7:22PM   0:00.00 ps aux
+root                1   0.0  0.1  2476424   8276   ??  Ss   Wed06PM   1:06.49 /sbin/launchd
+johnmwangi       4212   0.0  0.2  2492516  12596   ??  S     7:21PM   0:00.10 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
+johnmwangi       4198   0.0  0.4  3698040  34392   ??  Ss    7:16PM   0:01.65 com.apple.WebKit.Plugin.64
+johnmwangi       4197   0.0  0.1  2470520   4916   ??  Ss    7:16PM   0:00.03 com.apple.audio.ComponentHelper
+johnmwangi       4196   0.0  0.1  2461260   4512   ??  Ss    7:16PM   0:00.01 com.apple.audio.SandboxHelper
+root             4191   0.0  0.1  2506280   6016   ??  Ss    7:15PM   0:00.12 /System/Library/Frameworks/CoreMediaIO.framework/Resources/VDC.plugin/Contents/Resources/VDCAssistant
